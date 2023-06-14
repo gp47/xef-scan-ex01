@@ -2,7 +2,7 @@
 
 ## Summary
 
-Example vulnerable terraform code for xef scanni
+Example vulnerable terraform code for xef scannig.
 
 ## Scenario
 
